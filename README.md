@@ -1,8 +1,8 @@
-I am not offering any license for this project, so according copyright lows nobody else can alter, modify or distribute this project without my permission without being at risk of litigation.
+I am not offering any license for this project, so according copyright lows without my permission nobody else can alter, modify, distribute or reuse any part of this project without being at risk of litigation.
 Contact info: Vahagn Nurijanyan, vnurin@gmail.com.
 
 This project is based on new data/text compression technique/algorithms which always provide better compression rate than the techniques based on LZ77 (zip & png file formats).
-
+#
 "datar <filename>" -> <filename>.dtz & this is for data having 1 byte symbols
 "datar <filename> "z" "8"/"16"/"32" -> <filename>.dtz & this is for data having 1/2/4 byte symbols respectively
 "datar <filename>.dtz" -> <filename>
